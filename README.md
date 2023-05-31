@@ -30,7 +30,7 @@ movies_plot.csv
 
 Fish.csv
 
-Cuckoo_weekly.csv
+cuckoo_weekly.csv
 
 3. Pliki bootcamp_pandas_small.ipynb i bootcamp_pandas_movies.ipynb to te, na których będziemy pracowali w sobotę.
 
